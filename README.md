@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" />
+</p>
+
 # Hugo Enrique Castillo Bernal
 
 ## Senior Data Scientist | FinTech & Banking Analytics
