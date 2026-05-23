@@ -1,16 +1,43 @@
-## Hi there 👋
+# Henrique Castillo
 
-<!--
-**henriquecastillob-sudo/henriquecastillob-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Data Scientist | FinTech & Banking Analytics
 
-Here are some ideas to get you started:
+Building intelligent financial systems through machine learning, analytics, and scalable data platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### FinTech Focus
+
+- Credit Risk Modeling
+- Fraud Detection
+- Banking Analytics
+- Forecasting
+- Customer Intelligence
+- Financial Data Science
+- AI for Banking
+
+---
+
+### Tech Stack
+
+Python • SQL • Scikit-learn • TensorFlow • PySpark • Docker • Airflow • AWS • Power BI
+
+---
+
+### Current Mission
+
+Designing modern financial intelligence systems inspired by digital banking platforms like Nubank, BBVA, and Stripe.
+
+---
+
+### Featured Project
+
+## Neo Finance Folio
+
+Modern fintech portfolio and analytics dashboard focused on banking intelligence, risk monitoring, and financial analytics.
+
+---
+
+### Vision
+
+Creating AI-driven systems for the future of financial technology.
